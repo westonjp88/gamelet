@@ -1,3 +1,8 @@
+# JavaScrit All-in-One for Dummies
+
+I'm learning JavaScript, React, Vue, Svelte, and Node
+from JavaScdript All-in-One for Dummies by Chris Minnick
+
 # Gamelet
 
 A starter program to write JavaScript games.
